@@ -14,7 +14,7 @@ A análise mostra que o Vasco SAF ainda não opera de forma autossustentável. O
 
 Versão executiva com a tese central, os principais números e as conclusões da análise.
 
-📄 **[Análise completa em PDF](./vasco_analise_completa.pdf)**
+📄 **[Análise completa em PDF](./Vasco_Analise_Completa.pdf)**
 Versão integral com:
 - decomposição dos balanços;
 - reconstrução do EBITDA recorrente puro;
