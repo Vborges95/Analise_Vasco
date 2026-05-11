@@ -11,6 +11,7 @@ A análise mostra que o Vasco SAF ainda não opera de forma autossustentável. O
 ## Conteúdo do projeto
 
 📰 **[Versão resumida no Substack]([LINK SUBSTACK](https://substack.com/@vborges/note/c-257276120))**
+
 Versão executiva com a tese central, os principais números e as conclusões da análise.
 
 📄 **[Análise completa em PDF](./vasco_analise_completa.pdf)**
