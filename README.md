@@ -6,12 +6,14 @@ A análise mostra que o Vasco SAF ainda não opera de forma autossustentável. O
 
 ---
 
+*Para ler a tese central, vá ao Substack. Para a análise completa com premissas, ao PDF. Para testar cenários alternativos, à planilha.*
+
 ## Conteúdo do projeto
 
-📰 **[Versão resumida no Substack](LINK SUBSTACK)**  
+📰 **[Versão resumida no Substack]([LINK SUBSTACK](https://substack.com/@vborges/note/c-257276120))**
 Versão executiva com a tese central, os principais números e as conclusões da análise.
 
-📄 **[Análise completa em PDF](./vasco_analise_completa.pdf)**  
+📄 **[Análise completa em PDF](./vasco_analise_completa.pdf)**
 Versão integral com:
 - decomposição dos balanços;
 - reconstrução do EBITDA recorrente puro;
@@ -20,18 +22,10 @@ Versão integral com:
 - impacto do Sistema de Sustentabilidade Financeira (SSF) da CBF;
 - discussão dos dois caminhos possíveis para a SAF.
 
-📊 **[Planilha consolidada](./vasco_planilha_consolidada.xlsx)**  
-11 abas com:
-- balanços patrimoniais;
-- DRE;
-- DFC;
-- reconciliações;
-- modelo de runway editável;
-- indicadores operacionais e financeiros.
+📊 **[Planilha consolidada](./vasco_planilha_consolidada.xlsx)**
+11 abas com balanços, DRE, DFC, reconciliações operacionais, indicadores e **o modelo completo de runway 2026–2027 com células editáveis para testar premissas alternativas**.
 
-As células azuis podem ser alteradas para testar premissas alternativas.
-
-📁 **`dados_brutos/`**  
+📁 **`dados_brutos/`**
 PDFs originais dos balanços auditados publicados oficialmente pelo Vasco SAF.
 
 ---
@@ -42,7 +36,7 @@ PDFs originais dos balanços auditados publicados oficialmente pelo Vasco SAF.
 - a operação recorrente permaneceu negativa entre 2023 e 2025;
 - o EBITDA recorrente puro foi negativo em todos os exercícios analisados;
 - 2026 só fecha sem capital adicional no cenário otimista;
-- 2027 volta a exigir funding relevante sem uma nova grande venda de atletas;
+- 2027 volta a exigir funding relevante mesmo com a venda esperada de Andrés Gómez;
 - o SSF da CBF força uma disciplina financeira alinhada ao ajuste necessário da SAF.
 
 ---
@@ -94,4 +88,4 @@ Análise independente aplicando técnicas de FP&A, modelagem financeira e análi
 
 Sugestões, correções e discussões são bem-vindas.
 
-Os dados brutos pertencem ao clube.  
+Os dados brutos pertencem ao clube.
