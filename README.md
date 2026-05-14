@@ -26,6 +26,9 @@ Versão integral com:
 📊 **[Planilha consolidada](./vasco_planilha_consolidada.xlsx)**
 11 abas com balanços, DRE, DFC, reconciliações operacionais, indicadores e **o modelo completo de runway 2026–2027 com células editáveis para testar premissas alternativas**.
 
+📘 **[Manual da planilha em PDF](./Manual_da_Planilha_Vasco_SAF.pdf)**
+Guia de uso da planilha — convenções visuais, explicação aba por aba, glossário das métricas-chave e limitações do modelo. Recomendado para quem quer mexer nas premissas e entender o que cada número significa.
+
 📁 **`dados_brutos/`**
 PDFs originais dos balanços auditados publicados oficialmente pelo Vasco SAF.
 
